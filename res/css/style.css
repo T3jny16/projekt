@@ -1,0 +1,19 @@
+#cookie{
+    max-width: 180px;
+    width: 100%;
+    display: table;
+    margin: 0 auto;
+}
+body{
+ 
+    display: table;
+    margin: 0 auto;
+    background-image: url(/res/img/fotbal.png); background-repeat: no-repeat; 
+    height: 1000px;
+    
+}
+#counter {
+    font-size: 50px;
+    color: rgb(37, 102, 163);
+}
+
